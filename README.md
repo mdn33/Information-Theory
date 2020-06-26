@@ -2,13 +2,13 @@ Implementation of algorithms for the course Information Theory and Applications,
 
 ## Information Theory section
 1. Implement a GUI accepting as inputs:
-•a variable name
-•an unnormalized pdf function of the previous variable name
-•the parameters a, b specifying the variable range(a, b) outside of which the pdf is identically equal to 0
+- a variable name
+- an unnormalized pdf function of the previous variable name
+- the parameters a, b specifying the variable range(a, b) outside of which the pdf is identically equal to 0
 The output shall report
-•the normalization factor of the pdf (i.e., the integral of the unnormalized pdf fromatob)
-•the differential entropy corresponding to the normalized pdf
-•the Gaussian upper bound.
+- the normalization factor of the pdf (i.e., the integral of the unnormalized pdf fromatob)
+- the differential entropy corresponding to the normalized pdf
+- the Gaussian upper bound.
 
 2. Implement a GUI interface with the following characteristics:
 •Consider three independent random variablesX, Y, Z
