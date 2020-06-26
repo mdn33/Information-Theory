@@ -1,6 +1,6 @@
 Implementation of algorithms for the course Information Theory and Applications, Politecnico di Torino, 2020
 
-## Information Theory section
+## Information Theory
 1. Implement a GUI accepting as inputs:
 - a variable name
 - an unnormalized pdf function of the previous variable name
@@ -24,7 +24,7 @@ The output shall report
 - It accepts an arbitrary input string such asabba
 - It outputs the corresponding binary string obtained by applying an arithmetic code to the input string
 
-## Applications section
+## Applications
 1. Viterbi. Write a Matlab program which plots the Bit Error Rate curve for Eb/N0 ranging from 0 to 5 d Bobtained by applying the Viterbi algorithm to a convolutional code
 
 2. Belief Propagation. Write a Matlab program that:
