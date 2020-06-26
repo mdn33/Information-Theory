@@ -36,6 +36,6 @@ The output shall report
         - A factor graph approach
   
 3. Decision Tree. Write a Matlab program that:
-        - Builds a tree classifierbased on the information gain ratio.
-        - Givena vector x = (x1,x2,x3) computes the corresponding class.
+    - Builds a tree classifierbased on the information gain ratio.
+    - Givena vector x = (x1,x2,x3) computes the corresponding class.
   
