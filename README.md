@@ -1,7 +1,6 @@
-# Information-Theory
+Implementation of algorithms for the course Information Theory and Applications, Politecnico di Torino, 2020
 
-2020 Polito
-
+## Information Theory part
 1. Implement a GUI accepting as inputs:
 •a variable name
 •an unnormalized pdf function of the previous variable name
