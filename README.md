@@ -29,11 +29,11 @@ The output shall report
 
 2. Belief Propagation. Write a Matlab program that:
   1. Accepts as inputs:
-    a.The error probability value p
-    b.The received vector c= (y1y2y3y4) 
-  2. Computestheprobabilities p(ci|y) i=1,2,3,4 by using:
-    a.A brute-force approach working on the entire codebook.
-    b.A factor graph approach
+    - The error probability value p
+    - The received vector c= (y1y2y3y4) 
+  2. Computes the probabilities p(ci|y) i=1,2,3,4 by using:
+    - A brute-force approach working on the entire codebook.
+    - A factor graph approach
   
 3. Decision Tree. Write a Matlab program that:
   1.Builds a tree classifierbased on the information gain ratio.
